@@ -1,2 +1,2 @@
-# CSSerialisation
-Small project about serilizing/deserializing data in c#
+# CS Serialisation
+Small project about serializing/deserializing data in c#
